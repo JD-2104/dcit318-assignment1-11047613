@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\DCIT318_1ST_ASSIGNMENT\\DCIT318_Assignment1\\DCIT318_Assignment1\\DCIT318_Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dcit318-assignment1-11047613\\DCIT318_Assignment1\\DCIT318_Assignment1\\DCIT318_Assignment1.csproj",
       "projectName": "DCIT318_Assignment1",
-      "projectPath": "C:\\Users\\HP\\Desktop\\DCIT318_1ST_ASSIGNMENT\\DCIT318_Assignment1\\DCIT318_Assignment1\\DCIT318_Assignment1.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\dcit318-assignment1-11047613\\DCIT318_Assignment1\\DCIT318_Assignment1\\DCIT318_Assignment1.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\DCIT318_1ST_ASSIGNMENT\\DCIT318_Assignment1\\DCIT318_Assignment1\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\dcit318-assignment1-11047613\\DCIT318_Assignment1\\DCIT318_Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
